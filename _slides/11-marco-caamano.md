@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+This change is from my local machine/repo!
+
 
 ![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 {: .center}
