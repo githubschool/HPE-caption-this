@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Move along!
 
-![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
+![stormtroopocat](https://octodex.github.com/images/stormtroopocat.png)
 {: .center}
